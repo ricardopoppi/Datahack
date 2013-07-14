@@ -117,6 +117,9 @@ tabuleiro de rodadas.
 ## Badges
 
 Os softwares, projetos e eventos possuem alguns badges para indicar sua natureza ou autor:
+
 PSOCIAL: Projetos ou softwares de participação social desenvolvidos ou promovidos pelo governo
+
 OPENDATA: Projetos ou softwares baseados em dados abertos
+
 ...<possível pensar mais badges>...
