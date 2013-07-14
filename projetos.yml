@@ -45,16 +45,20 @@ P010:
           ou Administrador de Sistema.
   premio: 8
 P011:
-  titulo: TCU.gov.br
+  titulo: Portal da Participação Social
   texto:  Publique 00001010 e 00000011
-  premio: 16
+         Aumente o prêmio em 4 se possuir Noosfero
+         Aumente o prêmio em 4 se publicar o último byte via Mobilização de Participação Social
+         Promove qualquer design a <máxima> estrelas (para produzir esse projeto) se o evento for de "Consulta Pública Online"
+premio: 8
 P012:
   titulo: PortalTransparencia.gov.br
   texto:  Publique 00000000
   premio: 8
 P013:
-  titulo: TSE.jus.br
+  titulo: Participatório da Juventude
   texto:  Publique 00001111
+         Aumente o prêmio em 4 se possuir Elgg
   premio: 8
 P014:
   titulo: Lexml.gov.br
@@ -63,4 +67,24 @@ P014:
 P015:
   titulo: Dados.gov.br
   texto:  Publique 1111XXXX
+         Aumente o prêmio em 4 se possuir Ckan
+         Aumente o prêmio em 4 se publicar o byte via Mobilização de Participação Social
+         Promove qualquer design a <máxima> estrelas (para produzir esse projeto) se o evento for de "Consulta Pública Online"
+  premio: 4
+P016
+  titulo: CulturaDigital.br
+  texto: Publique <formular o byte de acordo com análise probabilística da mecânica
+         Aumente o prêmio em 4 se possuir Wordpress
+         Promove qualquer design a <máxima> estrelas (para produzir esse projeto) se o evento for de "Consulta Pública Online"
+  premio: 4
+P017
+  titulo: Pensando o Direito
+  texto: Publique <formular o byte de acordo com análise probabilística da mecânica
+         Aumente o prêmio em 4 se possuir Wordpress.
+         Promove qualquer design a <máxima> estrelas (para produzir esse projeto) se o evento for de "Consulta Pública Online"
+  premio: 4
+P018
+  titulo: A Escola que Queremos
+  texto: Publique <formular o byte de acordo com análise probabilística da mecânica
+         Aumente o prêmio em 4 se o evento for "Hackathon de Dados Educacionais"
   premio: 4
