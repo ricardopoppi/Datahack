@@ -28,3 +28,12 @@ O007:
 O008:
   titulo: Gerente de Projetos: UserStories
   texto:  Cada Designer define 1 bit a mais.
+O009
+  titulo: Animador de redes de Participação Social
+  texto: Agrega a sua equipe o poder de implementação de qualquer desenvolvedor ou designer de outra equipe (não puxa carta, apenas o poder em $ ou bits) 
+O010
+  titulo: Hacker do Governo
+  texto: Aumenta em 50% arredondado pra cima o efeito de qualquer software usado em projetos de Participação Social ou Dados Abertos (softwares cin badge PSOCIAL como noosfero, ckan, elgg). Se for uma rodada com badge PSOCIAL o aumento é de 100% (dobro)
+O011
+  titulo: Gestor Governamental Hacker
+  texto: Rende 1 bit toda vez que um Software com badge PSOCIAL entra na mesa.
