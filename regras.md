@@ -116,6 +116,7 @@ tabuleiro de rodadas.
 
 ## Badges
 
-Os softwares e projetos possuem alguns badges para indicar sua natureza ou autor:
+Os softwares, projetos e eventos possuem alguns badges para indicar sua natureza ou autor:
 GOV: Projetos ou softwares promovidos pelo governo
 OPENDATA: Projetos ou softwares baseados em dados abertos
+<possível pensar mais badges>
