@@ -72,5 +72,17 @@ E015:
   premio: 2k
 E016:
   titulo: Consegi
-  texto:  Libere 1 byte de prefixo 1111.
+  texto:  Libere 1 byte de prefixo 1111. Rodada com evento de badge OPENDATA aumenta uma estrela do melhor designer da equipe
   premio: 2k
+E017:
+  titulo: Encontro Nacional de Dados Abertos
+  texto: <máxima> estrelas para qualquer design da equipe para criar bits para projetos de dados abertos. Libere 1 byte de prefixo <definir> com Hacker do Governo na equipe
+  premio: <definir>
+E018:
+  titulo: Seminário Nacional de Participação Social
+  texto: Libere 1 byte com Animador de redes de Participação Social na equipe
+  premio: <definir>
+E019:
+  titulo: Consulta Pública Online
+  texto: Libere 1 byte com Gestor Governamental Hacker na equipe
+  premio: <definir>
