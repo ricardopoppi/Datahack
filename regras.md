@@ -134,11 +134,10 @@ Existem 3 formas de pontuar:
 
 ## Lei de Acesso à Informação
 
-A Lei de Acesso à Informação é um evento que ocorre naturalmente na 15a rodada
-do jogo (8a no jogo curto). A partir do momento em que a LAI entra em jogo,
-todos os desenvolvedores passam a produzir 50% a mais em bits, arredondado para
-cima.
+O Brasil promulgou recentemente sua Lei de Acesso a Informação, um marco para a cidadania por permitir que a cultura da publicidade seja a regra na administração pública e que milhões de cidadãos tenham garantido o direito de obter dos órgãos governamentais qualquer informação pública que esteja sob sua guarda.
 
-Algumas cartas afetam a chegada da LAI, adiantando ou adiando o turno em que ela
-entra em jogo. Para deixar isso visível, usa-se um marcador da LAI sobre o
-tabuleiro de rodadas.
+Uma lei jovem e que contou com a participação de diversos setores da sociedade Brasileira, nossa Lei de Acesso a Informação é também uma das mais modernas do mundo, abrigando a previsão da publicação de dados abertos e legíveis por máquinas. Dessa forma, a nossa LAI - como é chamada pelos íntimos - garante importante recursos para os hackers cívicos da sociedade Brasileira, potencializando a construção de códigos de forma colaborativa entre a população e os governos.
+
+No jogo, a Lei de Acesso à Informação é um evento que ocorre naturalmente na 15a rodada (8a no jogo curto). A partir do momento em que a LAI entra em jogo, todos os desenvolvedores passam a produzir 50% a mais em bits, arredondado para cima.
+
+Algumas cartas afetam a chegada da LAI, adiantando ou adiando o turno em que ela entra em jogo. Para deixar isso visível, usa-se um marcador da LAI sobre o tabuleiro de rodadas.
